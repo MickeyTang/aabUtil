@@ -1,13 +1,13 @@
 #!/bin/bash
 
-keystore_file_name="gamechat.keystore"
+keystore_file_name="..."//keystore文件名
 
-storePassword="NetEase.dev"
+storePassword="..."//keystore密码
 
-keyAlias="gamechat"
+keyAlias="..."//key别称
 
-keyPassword="NetEase.dev@gamechat"
+keyPassword="..."//key密码
 
 bundle_tool_name="bundletool-all-1.8.0.jar"
 
-output_file_name="final_output_app"
+output_file_name="..."//最终生成的文件名
